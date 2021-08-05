@@ -22,5 +22,5 @@
 <br>
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguluerler" />
+<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguluerle" />
 </details>
