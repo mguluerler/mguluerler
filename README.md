@@ -18,6 +18,7 @@
       <td>
           <img align="center" alt="Arduino" width="26px" 
                src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/arduino/arduino-original-wordmark.svg" />
+      <td>
       </td>
      
    <tr align="center">
@@ -44,6 +45,8 @@
       <td>
           <img align="center" alt="After Effects" width="26px"    
                src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/aftereffects/aftereffects-plain.svg" />
+      <td>
+      <td>
       </td>
    </tr>
     
@@ -58,6 +61,7 @@
       <td>
           <img align="center" alt="React" width="26px" 
                src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" />
+      <td>
       </td>
      
    <tr align="center">
