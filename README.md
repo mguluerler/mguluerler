@@ -1,7 +1,7 @@
 ## Mustafa Göktürk ULUERLER
 ### Mechanical Engineer
 
-- 🌱 I’m currently learning Electron JS, React, Vue.JS and CFD (Computational fluid dynamics).
+- 🌱 I’m currently learning Django, Vue.JS and CFD (Computational fluid dynamics).
 
 ### Languages and Tools:
 <div>
